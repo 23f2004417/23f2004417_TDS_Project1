@@ -2,7 +2,7 @@
 
 * I reviewed the GitHub REST API documentation to understand about the search endpoints. 
 Using Python's requests library, I scraped user and repository data by using the API. 
-Then the Company names were cleaned as necessary, and boolean fields were converted into lowercase strings as specified.
+Then the Company names were cleaned as necessary, and boolean fields were converted into lowercase strings as specified using Python in Google Colabs.
 
 **Surprising Facts:**
 
