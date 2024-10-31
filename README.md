@@ -6,12 +6,14 @@ Then the Company names were cleaned as necessary, and boolean fields were conver
 
 **Surprising Facts:**
 
-I found three users who do not have any public repositories but still have at least 11 followers. 
+I found three users who do not have any public repositories but still have a countable number of followers. 
 Additionally, hireable users tend to follow more people than those who are not hireable.
 
 **Actions for Developers:**
 
-Increasing the number of repositories and the length of your bio can help in increasing the number of followers.
+Increasing the number of repositories and the length of your bio can help in increasing the number of followers as there is a positive correlation between number of repositories or length of bio against the number of followers.
 
 You can find all the code I used to scrape, analyze, and answer these questions in the following Google Colab notebook link: 
 (https://colab.research.google.com/drive/1465n2I1x_Jtd56KuWcK8Yn7eHksQeKjS?usp=sharing).
+
+**File for the same have also been uploaded. (TDS_Project_1.ipynb)**
